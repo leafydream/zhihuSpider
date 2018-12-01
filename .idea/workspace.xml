@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16725fa2-eb27-4783-92f8-7b6baa9daef7" name="Default Changelist" comment="" />
+    <list default="true" id="16725fa2-eb27-4783-92f8-7b6baa9daef7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhihuuser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhihuuser/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +48,15 @@
         <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1368">
-              <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+              <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,6 +73,7 @@
     <option name="width" value="1920" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -137,6 +145,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="970" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10170394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -216,7 +225,7 @@
     <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
-          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
         </state>
       </provider>
     </entry>
